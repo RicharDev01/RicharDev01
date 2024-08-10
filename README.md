@@ -13,7 +13,7 @@
 	<picture> 
 		<img  
 			src="https://media.licdn.com/dms/image/D4E16AQGDLmDgICyI6g/profile-displaybackgroundimage-shrink_350_1400/0/1664083849637?e=1728518400&v=beta&t=2qqWQ-8a5jDiXpLQ4rluscD52wcFFRmOWtKFC4SnzaE" 
-			width = 500px>
+			width = 100%>
 	</picture>
 </p>
 
